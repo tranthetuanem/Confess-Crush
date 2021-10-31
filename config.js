@@ -1,20 +1,20 @@
 const CONFIG = {
     titleWeb: "Tuấn Yêu Trang Nè",
     introTitle: 'Dương Thị Huyền Trang',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    introDesc: `Anh là sương,sương chỉ tan trong nắng
+    Nắng vô tình nhưng nắng đọng trong sương
+    Anh yêu em bởi vì em là nắng
+    Có hạt sương nào thiếu nắng lại lung linh`,
+    btnIntro: '^^HiHi,yêu tuấn lắm cơ^^',
+    title: 'Yêu em yêu bóng chiều tà,yêu luôn ánh mắt ngọt ngào đôi môi🥰',
+    desc: 'Nói gì cho nó xa xôi,cưới anh cho khỏe đám ma cho gần 😁 ',
+    btnYes: 'Phái Phái chẩy nước miếng  <33',
+    btnNo: 'đéo :3',
+    question: 'Hôm nay bóng ngã chiều tà không liên quan lắm nhưng mà yêu trang làm người yêu anh nhé trang <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    reply: 'Thật ra thì em cũng yêu anh lắm i LOVE YOU TUẤN À <33333333',
+    mess: 'Anh biết mà 🥰. Yêu Trang  nhiều nhiều 😘😘',
+    messDesc: 'Vào Trong đó đi,mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/tuanusersocial.media'
 }
